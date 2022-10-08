@@ -1,0 +1,23 @@
+body{
+background-color: cyan;    
+}
+#heading{
+    background-color: pink;
+    color: purple;
+}
+#label1{
+    font-size:x-large;
+}
+#label2{
+    font-size:x-large;
+}
+#guess{
+    font-size:x-large;
+}
+#confidence{
+    font-size:x-large;
+}
+canvas{
+    border: 10px solid black
+   
+}
